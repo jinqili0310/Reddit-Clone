@@ -1,4 +1,4 @@
-const Navbar = async () => {
+const Navbar = () => {
     return (
         <div>
 
